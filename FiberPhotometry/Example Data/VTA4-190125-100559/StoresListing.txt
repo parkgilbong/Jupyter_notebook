@@ -1,0 +1,32 @@
+Experiment: FastedSucrose1
+Subject: VTA4
+User: ChrisMorrison
+Date: 2019-01-25
+Time: 10:06:02am
+
+ObjectID: RZn(1) - RZn Processor
+ StoreID: Ler/
+ StoreID: Bew/
+ StoreID: Note
+
+ObjectID: Cam(1) - Camera Device
+ StoreID: Cam1
+
+ObjectID: FibPho1 - Fiber Photometry
+ StoreID: 405G
+ StoreID: 480G
+ StoreID: Fi1r
+ StoreID: Fi1i
+
+
+Flat Listing:
+StoreID  Gizmo/Hal
+405G     FibPho1
+480G     FibPho1
+Bew/     RZn(1)
+Cam1     Cam(1)
+Fi1i     FibPho1
+Fi1r     FibPho1
+Ler/     RZn(1)
+Note     RZn(1)
+
