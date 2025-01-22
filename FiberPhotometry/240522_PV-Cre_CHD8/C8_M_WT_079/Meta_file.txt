@@ -1,5 +1,0 @@
-butter(3, 1, btype='low', fs=sampling_rate)
-
-find_peaks(x=signal_dF_F, prominence=4)
-
-threshold=0.0005
